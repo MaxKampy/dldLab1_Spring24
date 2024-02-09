@@ -1,0 +1,87 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/mhk31/OneDrive/Documents/GitHub/dldLab1_Spring24/Lab1/SV
+T_opt
+!s110 1707508880
+V5CQBjE21kYcHGgTb;7fIF3
+Z2 04 2 4 work tb fast 0
+=1-a4f933be3f66-65c68490-91-3d54
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.3;73
+R1
+T_opt1
+!s110 1707511700
+VXF5BTa4`RBNV7[jz^kaMG1
+R2
+=1-a4f933be3f66-65c68f93-77-5e08
+R3
+R4
+R5
+n@_opt1
+R6
+vfullAdder
+Z7 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z8 !s110 1707511697
+!i10b 1
+!s100 7IgN=04E1a[dh:1[PPj<`3
+IhDkee:Kc[WkW<04F:]kCP2
+S1
+R1
+w1707508392
+8fullAdder.sv
+FfullAdder.sv
+!i122 0
+L0 1 6
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.3;73
+r1
+!s85 0
+31
+Z11 !s108 1707511697.000000
+Z12 !s107 silly_tb.sv|fullAdder.sv|
+Z13 !s90 -reportprogress|300|fullAdder.sv|silly_tb.sv|
+!i113 0
+Z14 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+nfull@adder
+vtb
+R7
+R8
+!i10b 1
+!s100 L=IogS=5P]h@SRbMl`;bW1
+I`gIZG?Lmk6UMK>B]j4Zki3
+S1
+R1
+w1707511678
+8silly_tb.sv
+Fsilly_tb.sv
+!i122 0
+L0 2 71
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R5
