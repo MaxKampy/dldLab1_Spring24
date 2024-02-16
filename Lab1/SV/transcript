@@ -16,22 +16,22 @@
 # ** Warning: (vlib-34) Library already exists at "work".
 # Errors: 0, Warnings: 1
 # Model Technology ModelSim SE-64 vlog 2021.3 Compiler 2021.07 Jul 13 2021
-# Start time: 12:48:17 on Feb 09,2024
+# Start time: 02:52:47 on Feb 16,2024
 # vlog -reportprogress 300 fullAdder.sv silly_tb.sv 
 # -- Compiling module fullAdder
 # -- Compiling module tb
 # 
 # Top level modules:
 # 	tb
-# End time: 12:48:17 on Feb 09,2024, Elapsed time: 0:00:00
+# End time: 02:52:47 on Feb 16,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vsim -voptargs="+acc" work.tb 
-# Start time: 12:48:18 on Feb 09,2024
+# Start time: 02:52:47 on Feb 16,2024
 # ** Note: (vsim-3812) Design is being optimized...
 # Loading sv_std.std
 # Loading work.tb(fast)
 # Loading work.fullAdder(fast)
 # .main_pane.list.interior.cs.body
 # .main_pane.wave.interior.cs.body.pw.wf
-# End time: 13:05:11 on Feb 09,2024, Elapsed time: 0:16:53
+# End time: 02:53:54 on Feb 16,2024, Elapsed time: 0:01:07
 # Errors: 0, Warnings: 0

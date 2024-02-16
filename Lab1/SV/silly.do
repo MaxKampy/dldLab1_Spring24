@@ -30,7 +30,7 @@ vlib work
 vlog fullAdder.sv silly_tb.sv
 
 # start and run simulation
-vsim -voptargs=+acc work.tb
+vsim -voptargs=+acc work.tb 
 
 view list
 view wave
